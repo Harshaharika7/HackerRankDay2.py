@@ -26,4 +26,21 @@ Your task is to:
 20
 8
 
+**Example Output:**
+15
+
+Tip = 20% of 12.00 = 2.40
+Tax = 8% of 12.00 = 0.96
+Total = 12.00 + 2.40 + 0.96 = 15.36
+Rounded = 15
+
+How to Run: Option 1: With input file Create a file named input.txt with the required input and run: python3 operators.py < input.txt
+
+Option 2: Manual input Just run: python3 operators.py
+
+.
+
+🔗 HackerRank Challenge Link: HackerRank - Day 2: Operators
+
+✍ Author: Harshaharika7
 
