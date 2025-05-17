@@ -38,6 +38,12 @@ How to Run: Option 1: With input file Create a file named input.txt with the req
 
 Option 2: Manual input Just run: python3 operators.py
 
+🏅 HackerRank Score
+
+✅ Challenge Completed
+
+🏆 Points Earned: 30
+
 🔗 HackerRank Challenge Link: HackerRank - Day 2: Operators
 
 ✍ Author: Harshaharika7
